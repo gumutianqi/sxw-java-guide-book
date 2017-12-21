@@ -6,4 +6,10 @@
 
 ---
 
-### 指南地址
+### 指南 GitHub 地址
+
+https://github.com/gumutianqi/sxw-java-guide-book
+
+### Gitee 镜像同步地址
+
+
