@@ -6,10 +6,19 @@
 
 ---
 
-### 指南 GitHub 地址
+### 贡献人员
+
+> 古建国 (larrykoo@126.com)
+> 
+
+
+### 如何访问本指南
+
+
+### 指南源码 GitHub 地址
 
 https://github.com/gumutianqi/sxw-java-guide-book
 
-### Gitee 镜像同步地址
+### 指南源码 Gitee 镜像同步地址(只读)
 
-
+https://gitee.com/larrykoo/sxw-java-guide-book
