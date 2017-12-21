@@ -14,7 +14,7 @@
 
 ### 如何访问本指南
 
-
+http://larrykoo.gitee.io/sxw-java-guide-book/
 
 ### 指南源码 GitHub 地址
 
