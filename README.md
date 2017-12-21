@@ -11,6 +11,7 @@
 > 古建国 (larrykoo@126.com)
 > 
 
+**欢迎各位研发人员提交贡献（使用 github pull request）**
 
 ### 如何访问本指南
 
