@@ -7,5 +7,5 @@
   * [你的桌面](/welcome/you-need-desk.md)
   * [你的编码环境](/welcome/you-need-env.md)
   * [IDE 使用和配置](/welcome/ide-help.md)
-* [\[\]](.md)
+* [我们使用的规范](/specification/README.md)
 
