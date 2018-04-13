@@ -8,4 +8,5 @@
   * [搭建好你的编码环境](/welcome/you-need-env.md)
   * [IDE 使用和配置](/welcome/ide-help.md)
 * [我们使用的规范](/specification/README.md)
+* [更新日志](CHANGELOG.md)
 
