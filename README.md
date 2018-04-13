@@ -19,10 +19,10 @@ http://larrykoo.gitee.io/sxw-java-guide-book/
 
 ---
 
-### 指南源码 GitHub 地址
+### 指南书源码 GitHub 地址
 
 https://github.com/gumutianqi/sxw-java-guide-book
 
-### 指南源码 Gitee 镜像同步地址(只读)
+### 指南书源码 Gitee 镜像同步地址(只读)
 
 https://gitee.com/larrykoo/sxw-java-guide-book
