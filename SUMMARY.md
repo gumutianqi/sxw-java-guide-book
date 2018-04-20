@@ -9,6 +9,7 @@
   * [搭建好你的编码环境](/welcome/you-need-env.md)
   * [IDE 使用和配置](/welcome/ide-help.md)
 * [JAVA 源码解析](/java/README.md)
+  * [HashMap 实现原理](/java/hash-map.md)
 * [Spring Boot 源码解析](/spring-boot/README.md)
   * [AutoConfiguration 自动配置](/spring-boot/auto-configuration.md)
   * [Yaml 配置文件使用技巧](/spring-boot/yaml-config-help.md)
