@@ -9,7 +9,7 @@
 
 ## 依赖注入
 
-Spring 框架最基础, 是 DI(依赖注入) 框架
+Spring 框架最基础, 是 DI(依赖注入) 框架；
 
 ## BeanDefinition 对象
 
