@@ -13,7 +13,7 @@
 
 0. `CI/CD` => 
 
-0. `JJWT` => 
+0. `JJWT` => Java JSON Web Token 的简称
 
 0. `MVC` => 
 
