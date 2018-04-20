@@ -8,6 +8,7 @@
   * [学会使用Google](welcome/hello-google.md)
   * [搭建好你的编码环境](/welcome/you-need-env.md)
   * [IDE 使用和配置](/welcome/ide-help.md)
+* [JAVA 源码解析](/java/README.md)
 * [Spring Boot 源码解析](/spring-boot/README.md)
   * [AutoConfiguration 自动配置](/spring-boot/auto-configuration.md)
   * [Yaml 配置文件使用技巧](/spring-boot/yaml-config-help.md)
@@ -15,6 +16,6 @@
   * [Spring Bean实例化](/spring/bean-definition.md)
   * [Spring xxx](/spring/)
 * [我们使用的规范](/specification/README.md)
-* [本书计算机英文对照表](ben-shu-ji-suan-ji-ying-wen.md)
+* [本书计算机英文对照表](computer-english-contrast.md)
 * [更新日志](CHANGELOG.md)
 
