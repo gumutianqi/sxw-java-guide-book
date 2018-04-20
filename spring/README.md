@@ -8,4 +8,4 @@
 
 ### 本章我们要讨论的话题
 
-1. [`Spring Bean`实例化过程](/)
+1. [Spring Bean实例化](/spring/bean-definition.md)

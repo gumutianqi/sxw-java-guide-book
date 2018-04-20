@@ -15,7 +15,6 @@
   * [Yaml 配置文件使用技巧](/spring-boot/yaml-config-help.md)
 * [Spring 源码解析](/spring/README.md)
   * [Spring Bean实例化](/spring/bean-definition.md)
-  * [Spring xxx](/spring/)
 * [我们使用的规范](/specification/README.md)
 * [本书计算机英文对照表](computer-english-contrast.md)
 * [更新日志](CHANGELOG.md)
